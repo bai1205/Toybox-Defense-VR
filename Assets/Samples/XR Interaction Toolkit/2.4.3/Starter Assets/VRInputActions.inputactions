@@ -1,0 +1,56 @@
+{
+    "name": "VRInputActions",
+    "maps": [
+        {
+            "name": "PlayerVR",
+            "id": "7f0ac9ba-6c9b-4a0e-a1b4-c6de08141231",
+            "actions": [
+                {
+                    "name": "FireLaser",
+                    "type": "Button",
+                    "id": "0fb3cb0a-cfe4-4377-be42-8d1179b12d39",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "eb31ccbf-fb17-4390-b5ba-96571dbfbcfc",
+                    "path": "<QuestProTouchController>{RightHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FireLaser",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "84053979-bd84-44ee-9e54-e78eaf526f75",
+                    "path": "<OculusTouchController>{RightHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FireLaser",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "64018950-e7bf-437c-ada2-fba19de1fd41",
+                    "path": "<XRSimulatedController>{RightHand}/gripButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FireLaser",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
