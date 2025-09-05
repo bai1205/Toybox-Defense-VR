@@ -1,7 +1,7 @@
 
 ---
 
-## 2️⃣ Toybox Defense VR – README 模板
+## 2️⃣ Toybox Defense VR
 
 ```markdown
 # 🛡️ Toybox Defense VR
