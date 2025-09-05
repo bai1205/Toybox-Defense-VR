@@ -1,10 +1,5 @@
 
----
-
-## 2️⃣ Toybox Defense VR
-
-```markdown
-# 🛡️ Toybox Defense VR
+## 🛡️ Toybox Defense VR
 A VR tower-defense prototype where players defend a toy battlefield by building turrets and fighting waves of enemies.  
 Built with **Unity 2022.3 LTS + XR Interaction Toolkit**.
 
